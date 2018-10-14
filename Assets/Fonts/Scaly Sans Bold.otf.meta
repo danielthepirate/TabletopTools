@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a35f2633ebc57e7489d6e95fb365946b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scaly Sans
+  fontNames:
+  - Scaly Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6cccd445998e64c4fa3547f42c6cd48e, type: 3}
+  - {fileID: 12800000, guid: 76536d7fcde80364090bd8f2fae66190, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

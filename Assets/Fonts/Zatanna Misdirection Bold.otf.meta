@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fd787ef0eb02ae147b4b94f129b9974d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zatanna Misdirection
+  fontNames:
+  - Zatanna Misdirection
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 71bff938e2df5c241854fd551fd05288, type: 3}
+  - {fileID: 12800000, guid: 5750f9ddc385e3d42ab013b473a00b73, type: 3}
+  - {fileID: 12800000, guid: 986f93dfa98cc804a80e88691cc7dc3d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
